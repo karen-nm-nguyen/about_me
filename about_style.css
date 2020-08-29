@@ -113,6 +113,12 @@ nav {
   flex-direction: row;
 }
 
+.logo_link {
+  display: flex;
+  align-self: center;
+  position: absolute;
+  left: 42.30vw;
+}
 
 
 #logo {
@@ -123,7 +129,6 @@ nav {
   height: auto;
   position: absolute;
   padding: 0vh 2vw 0 2vw;
-
 }
 
 .menu {
